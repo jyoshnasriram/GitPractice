@@ -8,6 +8,7 @@ public class Sample {
 		System.out.println(4);
 		System.out.println(5);
 		System.out.println("friend");
+		System.out.println("divya work done");
 
 
 
