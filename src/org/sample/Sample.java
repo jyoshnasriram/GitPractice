@@ -10,6 +10,7 @@ public class Sample {
 		System.out.println("friend");
 		System.out.println("jhansi work");
         System.out.println("divya work done");
+        System.out.println("diwakar work done");
 
 	}
 
